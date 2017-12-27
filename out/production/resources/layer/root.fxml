@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import java.net.URL?>
+<AnchorPane id="pane" prefHeight="509.0" prefWidth="960.0" styleClass="anchor" xmlns="http://javafx.com/javafx/8.0.121"
+            xmlns:fx="http://javafx.com/fxml/1">
+    <stylesheets>
+        <URL value="@css/root.css"/>
+    </stylesheets>
+    <children>
+        <!-- Лаунчеры -->
+        <AnchorPane prefWidth="220" styleClass="servers" id="serversPane" AnchorPane.bottomAnchor="60"
+                    AnchorPane.leftAnchor="0" AnchorPane.topAnchor="40">
+            <Label text="Запомненные лаунчеры" AnchorPane.leftAnchor="35" AnchorPane.rightAnchor="0"
+                   AnchorPane.topAnchor="0"/>
+            <ScrollPane prefHeight="410" prefWidth="220" styleClass="scroll-pane" AnchorPane.leftAnchor="1"
+                        AnchorPane.topAnchor="15" id="launchersList"/>
+            <Button id="add" prefHeight="20" prefWidth="219" styleClass="button" text="Добавить"
+                    AnchorPane.bottomAnchor="1" AnchorPane.leftAnchor="1"/>
+        </AnchorPane>
+        <!-- Сервера -->
+        <AnchorPane prefWidth="220" styleClass="servers" AnchorPane.bottomAnchor="60"
+                    AnchorPane.rightAnchor="0" AnchorPane.topAnchor="40">
+            <Label text="Сервера" AnchorPane.leftAnchor="85" AnchorPane.rightAnchor="0"
+                   AnchorPane.topAnchor="0"/>
+            <ScrollPane prefHeight="410" prefWidth="220" styleClass="scroll-pane" AnchorPane.leftAnchor="1"
+                        AnchorPane.topAnchor="15" id="serversList"/>
+        </AnchorPane>
+        <!-- Вход -->
+        <AnchorPane prefHeight="50" styleClass="auth-pane" id="authPane" AnchorPane.bottomAnchor="0"
+                    AnchorPane.leftAnchor="0" AnchorPane.rightAnchor="0">
+            <AnchorPane AnchorPane.bottomAnchor="10" AnchorPane.leftAnchor="10" AnchorPane.rightAnchor="10"
+                        AnchorPane.topAnchor="10">
+                <Label text="Логин:" AnchorPane.topAnchor="5"/>
+                <TextField prefWidth="200" AnchorPane.leftAnchor="60" id="login"/>
+                <Label text="Пароль:" AnchorPane.leftAnchor="290" AnchorPane.topAnchor="5"/>
+                <PasswordField prefWidth="200" AnchorPane.leftAnchor="350" id="password"/>
+                <Button prefWidth="250" text="Авторизация" AnchorPane.rightAnchor="0" id="auth"/>
+            </AnchorPane>
+        </AnchorPane>
+        <AnchorPane AnchorPane.topAnchor="0" AnchorPane.rightAnchor="0" AnchorPane.leftAnchor="0" prefHeight="40"/>
+        <AnchorPane AnchorPane.leftAnchor="0" AnchorPane.bottomAnchor="0" AnchorPane.topAnchor="0"
+                    AnchorPane.rightAnchor="0" id="dimPane" styleClass="dim-pane" visible="false"/>
+    </children>
+
+</AnchorPane>

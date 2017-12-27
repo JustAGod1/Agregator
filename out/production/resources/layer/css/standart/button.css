@@ -1,0 +1,34 @@
+.button {
+    -fx-background-color: #6f84ff;
+    -fx-background-radius: 3px;
+    -fx-background-insets: none;
+
+    /* Text settings */
+    -fx-text-fill: rgba(0,0,0,.8);
+    -fx-font-size: 11pt;
+    -fx-font-weight: 700;
+}
+
+.button:hover,
+.button:focused {
+    -fx-background-color: #4e6cff;
+}
+
+.button:pressed {
+    -fx-background-color: #2638ff;
+}
+
+/* Default button */
+.button:default {
+    -fx-background-color: #141414;
+    -fx-text-fill: red;
+}
+
+.button:default:hover,
+.button:default:focused {
+    -fx-background-color: #4e6cff;
+}
+
+.button:default:pressed {
+    -fx-background-color: #2638ff;
+}

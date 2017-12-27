@@ -1,0 +1,24 @@
+@import url(standart/button.css);
+
+.anchor {
+    -fx-background-image: url("bg.png");
+    -fx-background-insets: 0, 0, 2000, 2000;
+}
+.servers {
+    -fx-border-width: 5;
+    -fx-border-color: coral;
+    -fx-background-color: white;
+}
+.scroll-pane {
+    -fx-background-color: rgba(255, 255, 255, 0);
+    -fx-border-color: rgba(255, 255, 255, 0);
+
+}
+.auth-pane {
+    -fx-background-color: #ff34e4;
+    -fx-border-color: coral;
+    -fx-border-width: 5;
+}
+.dim-pane {
+    -fx-background-color: rgba(0,0,0,0.6);
+}

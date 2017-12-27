@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<?import java.net.URL?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.Button?>
+<AnchorPane prefHeight="250.0" prefWidth="350.0" xmlns="http://javafx.com/javafx/8.0.121" id="choose-name" styleClass="auth-pane">
+
+    <stylesheets>
+        <URL value="@../css/choosename.css"/>
+    </stylesheets>
+    <children>
+        <Label text="Выберите название лаунчера" textAlignment="CENTER" AnchorPane.leftAnchor="20" AnchorPane.rightAnchor="20" AnchorPane.topAnchor="10"/>
+        <TextField AnchorPane.bottomAnchor="50" AnchorPane.leftAnchor="20" AnchorPane.rightAnchor="20" id="name"/>
+        <Button AnchorPane.leftAnchor="20" AnchorPane.rightAnchor="20" AnchorPane.bottomAnchor="20" id="button" text="Готово"/>
+        <Label text="Невозможно установить такое имя" styleClass="error-label" AnchorPane.bottomAnchor="80" AnchorPane.rightAnchor="20" AnchorPane.leftAnchor="20" id="nameError" visible="false"/>
+    </children>
+
+</AnchorPane>

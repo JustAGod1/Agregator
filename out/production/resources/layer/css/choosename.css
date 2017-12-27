@@ -1,0 +1,7 @@
+@import url(standart/button.css);
+@import url(standart/label.css);
+
+.label {
+    -fx-text-alignment: center;
+    -fx-font-size: 14px;
+}

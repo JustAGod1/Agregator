@@ -1,0 +1,6 @@
+.process-overlay {
+    -fx-background-image: url("process.png")
+}
+.label {
+    -fx-font-size: 14px;
+}

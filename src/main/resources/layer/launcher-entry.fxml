@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.*?>
+<?import java.net.URL?>
+<AnchorPane xmlns="http://javafx.com/javafx"
+            prefHeight="40.0" prefWidth="190.0" styleClass="server-entry" id="serverEntryRoot">
+
+    <stylesheets>
+        <URL value="@css/launcher-entry.css"/>
+    </stylesheets>
+
+    <children>
+        <Label text="NAME" AnchorPane.leftAnchor="5" AnchorPane.bottomAnchor="10" id="serverName"/>
+        <AnchorPane AnchorPane.rightAnchor="0" AnchorPane.topAnchor="0" AnchorPane.bottomAnchor="0"
+                    AnchorPane.leftAnchor="0" styleClass="entry-background" visible="false" id="entryBackground">
+
+        </AnchorPane>
+    </children>
+
+</AnchorPane>

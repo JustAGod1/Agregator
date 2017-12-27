@@ -1,0 +1,859 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a64d4415-88b0-4ea9-ba5d-7a737f798b83" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/file-changes/last-build.bin" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/fileHashes.bin" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/fileSnapshots.bin" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/taskHistory.bin" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/taskHistory.lock" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/built.bin" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties.lock" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_gson_gson_1_7_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_fusesource_jansi_jansi_1_16.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/agregator_main.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/agregator_test.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gradlew" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gradlew.bat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/com/eclipsesource/json/Json$DefaultHandler.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/com/eclipsesource/json/Json.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/com/eclipsesource/json/JsonArray$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/com/eclipsesource/json/JsonArray.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/com/eclipsesource/json/JsonHandler.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/com/eclipsesource/json/JsonLiteral.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/com/eclipsesource/json/JsonNumber.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/com/eclipsesource/json/JsonObject$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/com/eclipsesource/json/JsonObject$HashIndexTable.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/com/eclipsesource/json/JsonObject$Member.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/com/eclipsesource/json/JsonObject.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/com/eclipsesource/json/JsonParser.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/com/eclipsesource/json/JsonString.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/com/eclipsesource/json/JsonValue.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/com/eclipsesource/json/JsonWriter.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/com/eclipsesource/json/Location.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/com/eclipsesource/json/ParseException.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/com/eclipsesource/json/PrettyPrint$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/com/eclipsesource/json/PrettyPrint$PrettyPrintWriter.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/com/eclipsesource/json/PrettyPrint.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/com/eclipsesource/json/WriterConfig$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/com/eclipsesource/json/WriterConfig.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/com/eclipsesource/json/WritingBuffer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/Application$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/Application.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/helper/CommonHelper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/helper/IOHelper$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/helper/IOHelper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/helper/OverlayHelper$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/helper/OverlayHelper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/helper/RequestHelper$NoCurrentEntryException.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/helper/RequestHelper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/Launcher$Config.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/Launcher.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/client/ClientLauncher$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/client/ClientLauncher$ClassPathFileVisitor.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/client/ClientLauncher$Params.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/client/ClientLauncher.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/client/ClientProfile$Version.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/client/ClientProfile.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/client/PlayerProfile$Texture.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/client/PlayerProfile.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/client/ServerPinger$Result.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/client/ServerPinger.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/hasher/DirWatcher$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/hasher/DirWatcher$RegisterFileVisitor.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/hasher/DirWatcher.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/hasher/FileNameMatcher$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/hasher/FileNameMatcher$Entry.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/hasher/FileNameMatcher.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/hasher/HashedDir$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/hasher/HashedDir$Diff.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/hasher/HashedDir$HashFileVisitor.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/hasher/HashedDir.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/hasher/HashedEntry$Type.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/hasher/HashedEntry.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/hasher/HashedFile.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/helper/CommonHelper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/helper/IOHelper$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/helper/IOHelper$DeleteDirVisitor.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/helper/IOHelper$SkipHiddenVisitor.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/helper/IOHelper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/helper/JVMHelper$OS.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/helper/JVMHelper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/helper/LogHelper$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/helper/LogHelper$JAnsiOutput.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/helper/LogHelper$Level.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/helper/LogHelper$Output.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/helper/LogHelper$WriterOutput.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/helper/LogHelper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/helper/SecurityHelper$DigestAlgorithm.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/helper/SecurityHelper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/helper/VerifyHelper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/helper/js/JSApplication.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/request/CustomRequest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/request/PingRequest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/request/Request$Type.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/request/Request.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/request/RequestException.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/request/auth/AuthRequest$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/request/auth/AuthRequest$PSBruteForce.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/request/auth/AuthRequest$Result.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/request/auth/AuthRequest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/request/auth/BruteForce.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/request/auth/CheckServerRequest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/request/auth/JoinServerRequest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/request/update/LauncherRequest$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/request/update/LauncherRequest$Result.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/request/update/LauncherRequest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/request/update/UpdateListRequest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/request/update/UpdateRequest$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/request/update/UpdateRequest$Action$Type.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/request/update/UpdateRequest$Action.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/request/update/UpdateRequest$State$Callback.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/request/update/UpdateRequest$State.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/request/update/UpdateRequest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/request/uuid/BatchProfileByUsernameRequest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/request/uuid/ProfileByUUIDRequest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/request/uuid/ProfileByUsernameRequest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/serialize/HInput.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/serialize/HOutput.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/serialize/config/ConfigObject$Adapter.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/serialize/config/ConfigObject.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/serialize/config/TextConfigReader.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/serialize/config/TextConfigWriter$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/serialize/config/TextConfigWriter.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/serialize/config/entry/BlockConfigEntry.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/serialize/config/entry/BooleanConfigEntry.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/serialize/config/entry/ConfigEntry$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/serialize/config/entry/ConfigEntry$Type.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/serialize/config/entry/ConfigEntry.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/serialize/config/entry/IntegerConfigEntry.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/serialize/config/entry/ListConfigEntry.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/serialize/config/entry/StringConfigEntry.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/serialize/signed/SignedBytesHolder.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/serialize/signed/SignedObjectHolder.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/serialize/stream/EnumSerializer$Itf.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/serialize/stream/EnumSerializer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/serialize/stream/StreamObject$Adapter.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/launcher/serialize/stream/StreamObject.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/misc/LauncherProcessor$ProcessorResult.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/misc/LauncherProcessor.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/misc/MaterialBundle.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/misc/data/Data.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/misc/data/DataEntry.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/misc/data/DataException.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/misc/data/SameNameException.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/misc/data/SameSumException.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/misc/data/runtime/LoadedDataEntry$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/misc/data/runtime/LoadedDataEntry$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/misc/data/runtime/LoadedDataEntry$3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/misc/data/runtime/LoadedDataEntry$ServerInformation.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/misc/data/runtime/LoadedDataEntry.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/misc/data/runtime/LoadedEntries.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/misc/data/runtime/NoSuchEntryException.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/overlay/DownloadOverlay.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/overlay/Overlay.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/overlay/ProgressOverlay.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/overlay/dialog/ChooseNameDialog.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ru/justagod/agregator/overlay/dialog/Dialog.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/resources/image/hellrock.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/resources/image/hellrock_normal.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/resources/image/hellrock_specular.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/resources/layer/choosename/choosename.fxml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/resources/layer/css/bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/resources/layer/css/choosename.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/resources/layer/css/circular.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/resources/layer/css/download.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/resources/layer/css/launcher-entry.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/resources/layer/css/process.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/resources/layer/css/process.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/resources/layer/css/root.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/resources/layer/css/scroll_bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/resources/layer/css/standart/button.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/resources/layer/css/standart/label.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/resources/layer/download.fxml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/resources/layer/launcher-entry.fxml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/resources/layer/process/process.fxml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/resources/layer/root.fxml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/resources/layer/server-entry.fxml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/settings.gradle" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eclipsesource/json/Json.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eclipsesource/json/JsonArray.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eclipsesource/json/JsonHandler.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eclipsesource/json/JsonLiteral.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eclipsesource/json/JsonNumber.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eclipsesource/json/JsonObject.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eclipsesource/json/JsonParser.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eclipsesource/json/JsonString.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eclipsesource/json/JsonValue.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eclipsesource/json/JsonWriter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eclipsesource/json/Location.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eclipsesource/json/ParseException.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eclipsesource/json/PrettyPrint.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eclipsesource/json/WriterConfig.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eclipsesource/json/WritingBuffer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/Application.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/helper/CommonHelper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/helper/IOHelper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/helper/OverlayHelper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/helper/RequestHelper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/Launcher.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/client/ClientLauncher.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/client/ClientProfile.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/client/PlayerProfile.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/client/ServerPinger.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/hasher/DirWatcher.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/hasher/FileNameMatcher.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/hasher/HashedDir.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/hasher/HashedEntry.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/hasher/HashedFile.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/helper/CommonHelper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/helper/IOHelper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/helper/JVMHelper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/helper/LogHelper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/helper/SecurityHelper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/helper/VerifyHelper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/helper/js/JSApplication.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/request/CustomRequest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/request/PingRequest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/request/Request.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/request/RequestException.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/request/auth/AuthRequest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/request/auth/BruteForce.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/request/auth/CheckServerRequest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/request/auth/JoinServerRequest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/request/update/LauncherRequest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/request/update/UpdateListRequest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/request/update/UpdateRequest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/request/uuid/BatchProfileByUsernameRequest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/request/uuid/ProfileByUUIDRequest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/request/uuid/ProfileByUsernameRequest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/serialize/HInput.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/serialize/HOutput.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/serialize/config/ConfigObject.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/serialize/config/TextConfigReader.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/serialize/config/TextConfigWriter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/serialize/config/entry/BlockConfigEntry.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/serialize/config/entry/BooleanConfigEntry.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/serialize/config/entry/ConfigEntry.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/serialize/config/entry/IntegerConfigEntry.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/serialize/config/entry/ListConfigEntry.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/serialize/config/entry/StringConfigEntry.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/serialize/signed/SignedBytesHolder.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/serialize/signed/SignedObjectHolder.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/serialize/stream/EnumSerializer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/launcher/serialize/stream/StreamObject.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/misc/LauncherProcessor.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/misc/MaterialBundle.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/misc/data/Data.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/misc/data/DataEntry.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/misc/data/DataException.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/misc/data/SameNameException.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/misc/data/SameSumException.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/misc/data/runtime/LoadedDataEntry.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/misc/data/runtime/LoadedEntries.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/misc/data/runtime/NoSuchEntryException.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/overlay/DownloadOverlay.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/overlay/Overlay.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/overlay/ProgressOverlay.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/overlay/dialog/ChooseNameDialog.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/justagod/agregator/overlay/dialog/Dialog.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/image/hellrock.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/image/hellrock_normal.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/image/hellrock_specular.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/layer/choosename/choosename.fxml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/layer/css/bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/layer/css/choosename.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/layer/css/circular.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/layer/css/download.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/layer/css/launcher-entry.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/layer/css/process.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/layer/css/process.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/layer/css/root.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/layer/css/scroll_bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/layer/css/standart/button.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/layer/css/standart/label.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/layer/download.fxml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/layer/launcher-entry.fxml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/layer/process/process.fxml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/layer/root.fxml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/layer/server-entry.fxml" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Application.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ru/justagod/agregator/Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-255">
+              <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="$USER_HOME$/.sdkman/candidates/gradle/4.3" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4.3" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="agregator" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="agregator" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'agregator'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'agregator'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'agregator'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'agregator'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'agregator'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'agregator'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'agregator'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'agregator'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'agregator'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/Desktop/ShadowCraft" value="1449694996000" />
+        <entry key="$USER_HOME$/Downloads/forge-1.8-11.14.4.1563-mdk" value="1447336142000" />
+        <entry key="$PROJECT_DIR$/../CustomBlocks" value="1506679330000" />
+        <entry key="$PROJECT_DIR$/../Exchange Client" value="1506679330000" />
+        <entry key="$PROJECT_DIR$/../Illness" value="1506679330000" />
+        <entry key="$PROJECT_DIR$/../JustACore" value="1509655829000" />
+        <entry key="$PROJECT_DIR$" value="3006922346000" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="770293087" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="1016629570" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="agregator" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/gradle-native-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/gradle-runtime-api-info-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/gradle-wrapper-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/gradle-logging-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/gradle-installation-beacon-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/gradle-base-services-groovy-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/gradle-model-core-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/gradle-core-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/ant-1.9.6.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/gradle-build-cache-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/groovy-all-2.4.12.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/gradle-kotlin-dsl-tooling-builders-0.12.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/gradle-process-services-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/gradle-cli-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/gradle-docs-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/gradle-persistent-cache-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/ant-launcher-1.9.6.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/gradle-base-services-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/gradle-build-option-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/gradle-messaging-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/gradle-jvm-services-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/gradle-launcher-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/gradle-kotlin-dsl-0.12.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/gradle-resources-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/gradle-model-groovy-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/gradle-core-api-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/gradle-kotlin-dsl-tooling-models-0.12.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/gradle-tooling-api-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/gradle-platform-native-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/gradle-jacoco-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/gradle-plugins-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/gradle-build-comparison-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/gradle-language-native-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/gradle-version-control-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/gradle-javascript-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/gradle-ide-play-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/gradle-language-scala-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/gradle-tooling-api-builders-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/gradle-announce-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/gradle-plugin-use-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/gradle-platform-base-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/gradle-language-jvm-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/gradle-ear-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/gradle-publish-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/gradle-composite-builds-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/gradle-dependency-management-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/gradle-testing-native-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/gradle-build-cache-http-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/gradle-workers-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/gradle-plugin-development-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/gradle-diagnostics-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/gradle-ide-native-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/gradle-antlr-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/gradle-reporting-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/gradle-osgi-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/gradle-language-java-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/gradle-language-groovy-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/gradle-scala-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/gradle-resources-http-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/gradle-platform-play-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/gradle-ide-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/gradle-resources-gcs-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/gradle-maven-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/gradle-platform-jvm-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/gradle-testing-base-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/gradle-testing-jvm-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/gradle-build-init-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/gradle-test-kit-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/gradle-ivy-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/gradle-resources-sftp-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/gradle-signing-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/gradle-resources-s3-4.3.jar" />
+                  <option value="$USER_HOME$/.sdkman/candidates/gradle/4.3/lib/plugins/gradle-code-quality-4.3.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1920" />
+    <option name="height" value="1200" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="agregator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="agregator" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="agregator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="agregator" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="agregator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="agregator" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="agregator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="agregator" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="agregator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="agregator" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="agregator" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="lastUpdateTimestamp" value="1514409501485" />
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a64d4415-88b0-4ea9-ba5d-7a737f798b83" name="Default" comment="" />
+      <created>1514409494043</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1514409494043</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="sbt" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3025732" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/justagod/agregator/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255">
+          <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
